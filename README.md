@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techmental
 - 👀 I’m interested in pushing pixels
-- 🌱 I’m currently learning how to start my day by practicing empathy
-- 💞️ I’m looking to collaborate on AR / IPFS / WEB3
+- 🌱 Currently starting my day by practicing empathy
+- 💞️ I’m looking to collaborate on AR + AI + Metaverse 
 - 📫 How to reach me ... TW // @techmental_
 
 <!---
